@@ -9,3 +9,5 @@
 4960 个无三点共线检查、1032 对不共端点的边，恰有 10 对交叉且无边重复。
 
 [工作记录](docs/session-log/README.md)。
+
+[仓库首页](README.md) · [MIT 许可证](LICENSE)。

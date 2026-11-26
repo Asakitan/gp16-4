@@ -1,6 +1,6 @@
 # 广义 Petersen 图 GP(16,4) 的局部交叉数
 
-局部交叉数与直线局部交叉数均为 1；不主张首次发表或总交叉数最优。
+局部交叉数与直线局部交叉数均为 1；不涉及总交叉数最优性。
 
 [完整证明](gp16-4-proof.md)。
 
@@ -12,4 +12,4 @@
 
 [仓库首页](README.md) · [MIT 许可证](LICENSE)。
 
-**公开证明版本：** [proof-v1.0.0](https://github.com/Asakitan/gp16-4/releases/tag/proof-v1.0.0)，版本日期 2026-11-26；署名 Chain.Ren（独立研究）。
+**公开证明版本：** [proof-v1.0.1](https://github.com/Asakitan/gp16-4/releases/tag/proof-v1.0.1)，版本日期 2026-11-26；署名 Chain.Ren（独立研究）。

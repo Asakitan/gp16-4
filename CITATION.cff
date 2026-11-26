@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "To cite the independently released proof and verification materials, use the versioned citation below."
+title: "The local crossing number of GP(16,4) is one"
+authors:
+  - family-names: "Chain.Ren"
+version: "1.0.0"
+date-released: "2026-11-26"
+url: "https://github.com/Asakitan/gp16-4/releases/tag/proof-v1.0.0"
+repository-code: "https://github.com/Asakitan/gp16-4"
+license: MIT
+preferred-citation:
+  type: report
+  title: "The local crossing number of GP(16,4) is one"
+  authors:
+    - family-names: "Chain.Ren"
+  version: "1.0.0"
+  year: 2026
+  url: "https://github.com/Asakitan/gp16-4/blob/proof-v1.0.0/gp16-4-proof.md"

@@ -1,5 +1,11 @@
 # 广义 Petersen 图 GP(16,4) 的局部交叉数是 1
 
+**署名：** Chain.Ren · 独立研究
+
+**版本：** [proof-v1.0.0](https://github.com/Asakitan/gp16-4/releases/tag/proof-v1.0.0) · 版本日期：2026-11-26（Australia/Sydney）；实际公开时间见 Release。
+
+本证明与验证资料在 OpenAI Codex 的实质协助下形成；不代表学校成果，不主张已完成同行评审或核定全球首证。
+
 **定理。** 广义 Petersen 图 $GP(16,4)$ 有一幅每条边最多被交叉一次的直线画法，但没有平面无交叉画法。因此它的局部交叉数与直线局部交叉数都等于 1。
 
 **公开问题。** Marcus Schaefer 的 [2026 年版《The Graph Crossing Number and Its Variants》，第 72 页脚注 130](https://www.combinatorics.org/ojs/index.php/eljc/article/download/DS21/pdf#page=72) 在引述 Barakezyan 的硕士论文表 5.1 后，把本图列为该表最小的未解情形，候选值为 1 和 2。这里的局部交叉数是：对一幅画法先取**单条边上的最大交叉数**，再对所有画法取最小值；不要求总交叉数最小。
